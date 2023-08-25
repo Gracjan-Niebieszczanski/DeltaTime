@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2689e22c3d11ce4d9f67856c6ebd187, type: 3}
+  m_Name: IceArea
+  m_EditorClassIdentifier: 
+  type: 2
+  forceForward: {x: 0, y: 0, z: 0}
+  forceDirection: 0
+  duration: 0
+  SpeedLimitTime: 0
+  SpeedLimit: 3
+  spawn: {fileID: 2058755484498635747, guid: e8786c6193867ca4ebd21b091cf5e30a, type: 3}
+  rotationForward: 1
+  distanceToSpawn: 2.1
+  damage: 0
+  maxDistance: 0
+  healpoints: 0
+  healTime: 0
+  healStamp: 1

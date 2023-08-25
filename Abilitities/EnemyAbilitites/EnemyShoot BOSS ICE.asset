@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69e0b2c238c4dce4ea415943e0bb1018, type: 3}
+  m_Name: EnemyShoot BOSS ICE
+  m_EditorClassIdentifier: 
+  abilitity: {fileID: 11400000, guid: 3bad6ecba927f614b817e65ae6283f02, type: 2}
+  count: 3
+  Regeneration: {fileID: 11400000, guid: 0d78cbbf1a313ba4487e377aa995efe4, type: 2}
+  enemyScheme: {fileID: 11400000, guid: 06fb9a546bbbda445a745797f5e02407, type: 2}
+  delay: 0.6
+  cooldown: 0.3

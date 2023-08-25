@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2689e22c3d11ce4d9f67856c6ebd187, type: 3}
+  m_Name: PlayerProjectile
+  m_EditorClassIdentifier: 
+  Name: Pocisk
+  icon: {fileID: 0}
+  type: 2
+  forceForward: {x: 0, y: 0, z: 0}
+  forceDirection: 0
+  duration: 0
+  SpeedLimitTime: 0
+  SpeedLimit: 3
+  spawn: {fileID: 4887893021870986291, guid: 77033d5a895a9a24da149ac2f0c2dc2e, type: 3}
+  rotationForward: 1
+  distanceToSpawn: 0.5
+  damage: 70
+  maxDistance: 0
+  healpoints: 0
+  healTime: 0
+  healStamp: 1

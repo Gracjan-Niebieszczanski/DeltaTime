@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69e0b2c238c4dce4ea415943e0bb1018, type: 3}
+  m_Name: Hand
+  m_EditorClassIdentifier: 
+  abilitity: {fileID: 11400000, guid: 7db32dd62ef971c41ab73535d9b64d2b, type: 2}
+  count: 1
+  Regeneration: {fileID: 11400000, guid: 0bc0db2d098b6784e86ceb97cd52c0a7, type: 2}
+  enemyScheme: {fileID: 11400000, guid: 223114ae4d0fb9448a6009c0b0a82438, type: 2}
+  delay: 0.45
+  cooldown: 0.5

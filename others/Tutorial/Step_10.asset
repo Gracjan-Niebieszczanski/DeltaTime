@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28c93fabab5e501439addc18dd0e7660, type: 3}
+  m_Name: Step_10
+  m_EditorClassIdentifier: 
+  text: "Aby odnawianie umiej\u0119tno\u015B\u0107i lub leczenie sko\u0144czy\u0142o
+    si\u0119 szybciej musisz sprawi\u0107 \u017Ceby czas lecia\u0142 szybko naciskaj\u0105c
+    SHIFT"
